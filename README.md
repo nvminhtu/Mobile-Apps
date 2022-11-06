@@ -8,7 +8,8 @@ Mobile App Projects build with Ionic & Angular
 
 
 Some Practice App with Angular JS & Ionice
-* [Movies Popular Trending]
+* Movies Popular Trending
 (API: get data from The Movie Db, Show List of Movie and Movie Detail with Angular JS) 
-
-
+// Call Api in Environment, Add Module, Setup Routing Module
+* 
+![alt text for screen readers](/path/to/image.png "Movie Trending App")
