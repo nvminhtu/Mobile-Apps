@@ -11,5 +11,7 @@ Some Practice App with Angular JS & Ionice
 * Movies Popular Trending
 (API: get data from The Movie Db, Show List of Movie and Movie Detail with Angular JS) 
 // Call Api in Environment, Add Module, Setup Routing Module
-* 
-([/path/to/image.png](https://github.com/nvminhtu/Mobile-Apps/blob/main/trending-movies.png)]() "Movie Trending App")
+
+
+![MarineGEO circle logo]([[/assets/img/MarineGEO_logo.png](https://github.com/nvminhtu/Mobile-Apps/blob/main/trending-movies.png)](https://github.com/nvminhtu/Mobile-Apps/blob/main/trending-movies.png) "MarineGEO logo")
+
