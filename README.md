@@ -13,5 +13,5 @@ Some Practice App with Angular JS & Ionice
 // Call Api in Environment, Add Module, Setup Routing Module
 
 
-![MarineGEO circle logo]([[/assets/img/MarineGEO_logo.png](https://github.com/nvminhtu/Mobile-Apps/blob/main/trending-movies.png)](https://github.com/nvminhtu/Mobile-Apps/blob/main/trending-movies.png) "MarineGEO logo")
+![MarineGEO circle logo]([https://github.com/nvminhtu/Mobile-Apps/blob/main/trending-movies.png]"MarineGEO logo")
 
