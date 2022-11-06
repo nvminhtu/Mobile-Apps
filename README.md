@@ -12,4 +12,4 @@ Some Practice App with Angular JS & Ionice
 (API: get data from The Movie Db, Show List of Movie and Movie Detail with Angular JS) 
 // Call Api in Environment, Add Module, Setup Routing Module
 * 
-![alt text for screen readers](/path/to/image.png "Movie Trending App")
+![alt text for screen readers]([[/path/to/image.png](https://github.com/nvminhtu/Mobile-Apps/blob/main/trending-movies.png)]() "Movie Trending App")
