@@ -1,5 +1,6 @@
 # Mobile-Apps
-Mobile Apps Project build with Ionic & Angular
+
+Mobile App Projects build with Ionic & Angular
 
 * [Football Kit Quiz](https://play.google.com/store/apps/details?id=com.mtstudio.footballkitsquiz)
 * [Truyện cười song ngữ](https://play.google.com/store/apps/details?id=com.mtstudio.lightstar.truyencuoisongngu)
