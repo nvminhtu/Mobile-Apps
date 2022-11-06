@@ -9,6 +9,8 @@
 ## Some Practice Apps with Angular JS & Ionic:
 1. **Movies Popular Trending**
 ![Trending Movie](/trending-movies.png "Trending Movie")
+
+
 (API: get data from The Movie Db, Show List of Movie and Movie Detail with Angular JS) 
 // Practice: Call Api in Environment, Add Module, Setup Routing Module, Service
 
