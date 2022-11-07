@@ -7,7 +7,6 @@
 
 
 ## Some Practice Apps with Angular JS & Ionic:
-
 1. **Movies Popular Trending** 
 <br/><br/>
 
