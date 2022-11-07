@@ -7,9 +7,11 @@
 
 
 ## Some Practice Apps with Angular JS & Ionic:
-1. **Movies Popular Trending**
-GIT SOURCE: https://github.com/nvminhtu/ionic-movie-list/tree/main/src
 
+1. **Movies Popular Trending**
+
+
+GIT SOURCE: https://github.com/nvminhtu/ionic-movie-list/tree/main/src
 ![Trending Movie](/trending-movies.png "Trending Movie")
 ![image](https://user-images.githubusercontent.com/3124729/200194094-8b1d0348-d8fc-42a4-a849-44f371a290be.png)
 
