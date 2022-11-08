@@ -22,4 +22,5 @@ GIT SOURCE: https://github.com/nvminhtu/ionic-movie-list/<br/>
 * Practice: Call Api in Environment, Add Module, Setup Routing Module, Service
 
 2. **Simple App Dashboard ** 
+3. <br/><br/>
 GIT SOURCE: [Ionic Dashboard](https://github.com/nvminhtu/Ionic-Dashboard)
