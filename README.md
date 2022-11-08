@@ -10,8 +10,10 @@
 1. **Movies Popular Trending** 
 <br/><br/>
 
-GIT SOURCE: https://github.com/nvminhtu/ionic-movie-list/
-![Trending Movie](/trending-movies.png "Trending Movie")
+GIT SOURCE: https://github.com/nvminhtu/ionic-movie-list/<br/>
+
+![Trending Movie](/trending-movies.png "Trending Movie")<br/>
+
 ![image](https://user-images.githubusercontent.com/3124729/200194094-8b1d0348-d8fc-42a4-a849-44f371a290be.png)
 <br/><br/>
 
