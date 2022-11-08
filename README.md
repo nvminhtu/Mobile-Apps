@@ -21,7 +21,7 @@ GIT SOURCE: https://github.com/nvminhtu/ionic-movie-list/<br/>
 * (Show List of Movie and Movie Detail with Angular JS,  API: get data from The Movie Db)
 * Practice: Call Api in Environment, Add Module, Setup Routing Module, Service
 
-2. **Simple App Dashboard ** 
+2. **Simple App Dashboard** 
 <br/><br/>
 
 GIT SOURCE: [Ionic Dashboard](https://github.com/nvminhtu/Ionic-Dashboard)
