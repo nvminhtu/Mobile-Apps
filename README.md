@@ -21,7 +21,18 @@ GIT SOURCE: https://github.com/nvminhtu/ionic-movie-list/<br/>
 * (Show List of Movie and Movie Detail with Angular JS,  API: get data from The Movie Db)
 * Practice: Call Api in Environment, Add Module, Setup Routing Module, Service
 
-2. **Simple App Dashboard** 
+## 2. **Simple App Dashboard** 
 <br/><br/>
 
 GIT SOURCE: [Ionic Dashboard](https://github.com/nvminhtu/Ionic-Dashboard)
+
+## 3.Simple Apps with IONIC:
+
+### 3.1: App User Management - SQLlite (create, delete, update,…)
+### 3.2: App Scan Barcode
+### 3.3: App SplashScreen, Animation
+### 3.4: App User Register & Login 
+### 3.5: App Read, Save File
+### 3.6: App Location Tracker (Geolocation)
+### 3.7: App Data with Firebase (Firebase,...)
+
