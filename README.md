@@ -37,3 +37,4 @@ GIT SOURCE: [Ionic Dashboard](https://github.com/nvminhtu/Ionic-Dashboard)
 ### 3.10: App Form IONIC only (ReactiveForm)
 ### 3.11: App Speech Recognition 
 ### 3.12: App Social Sharing Data
+### 3.13: App Bluetooth
