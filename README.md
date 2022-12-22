@@ -12,10 +12,7 @@
 
 GIT SOURCE: https://github.com/nvminhtu/ionic-movie-list/<br/>
 
-![Trending Movie](/trending-movies.png "Trending Movie")<br/>
-
-![image](https://user-images.githubusercontent.com/3124729/200194094-8b1d0348-d8fc-42a4-a849-44f371a290be.png)
-<br/><br/>
+![Trending Movie]
 
 **What did we get? and what did we use?**
 * (Show List of Movie and Movie Detail with Angular JS,  API: get data from The Movie Db)
@@ -35,4 +32,8 @@ GIT SOURCE: [Ionic Dashboard](https://github.com/nvminhtu/Ionic-Dashboard)
 ### 3.5: App Read, Save File
 ### 3.6: App Location Tracker (Geolocation)
 ### 3.7: App Data with Firebase (Firebase,...)
-
+### 3.8: App work with HttpRequest
+### 3.9: App work with Storage (IonicStorageModule)
+### 3.10: App Form IONIC only (ReactiveForm)
+### 3.11: App Speech Recognition 
+### 3.12: App Social Sharing Data
